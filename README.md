@@ -62,11 +62,6 @@ This research aims to:
 - Explore accessible and inclusive IDE design.
 - Provide design guidelines for supporting neurodivergent software developers.
 
-## Research Paper
-
-The full research paper is available here:
-
-**[Download / Read the Research Paper (PDF)](papers/research-paper.pdf)**
 
 ## Keywords
 
